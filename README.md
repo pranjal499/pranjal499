@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranjal</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
-- 🔭 I’m currently working on [WanderLust](https://github.com/pranjal499/WanderLust.git)
+- 🔭 I’m currently working on [TradeX](https://github.com/pranjal499/TradeX.git)
 
 - 🌱 I’m currently learning **React.js**
 
